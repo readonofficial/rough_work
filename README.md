@@ -2,4 +2,4 @@
 What the name says
 
 My first commit
-This is master branch thingy
+This is testing branch one's thingy
