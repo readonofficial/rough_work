@@ -2,6 +2,3 @@
 What the name says
 
 My first commit
-My second commit
-My fourth commit
-My fifth commit
